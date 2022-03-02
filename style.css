@@ -19,3 +19,10 @@
         height: 300px;
     }
 }
+.accordion-item
+{
+    width: 75%;
+    align-self:center;
+    height: auto;
+    text-decoration: none;
+}
